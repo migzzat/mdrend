@@ -1,4 +1,4 @@
 hello
 ====
 
-welcome *magdi*
+welcome *my friend*
