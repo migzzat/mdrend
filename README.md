@@ -6,7 +6,8 @@
 #Output
 ======
 
-```    Finished dev [unoptimized + debuginfo] target(s) in 0.74s
+```  
+     Finished dev [unoptimized + debuginfo] target(s) in 0.74s
      Running `target/debug/mdrend file.md -w --css file.css -e`
 Input : "file.md"
 
